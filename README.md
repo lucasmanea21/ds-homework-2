@@ -74,7 +74,7 @@ Urmatoarele N linii: operatiile propriu-zise sub forma:
 
 - `4 x` — floor(x)
 
-- 5 x` — ceil(x)
+- `5 x` — ceil(x)
 
 - `6 x y` — range_query(x, y)
 
